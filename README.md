@@ -1,5 +1,7 @@
 # This mini-project is designed to run in docker environment.
 
+Technology used: Nextjs, typescript, docker
+
 Follow the below instructions to regenerate the environment:
 
 Install docker in your machine.
