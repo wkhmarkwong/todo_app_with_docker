@@ -1,0 +1,8 @@
+version: "3.8"
+services:
+  todo:
+    build: ./todo
+    container_name: todo_c
+    ports:
+      - '3001:3000'
+    stdin_open: true
