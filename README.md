@@ -1,4 +1,6 @@
-# This mini-project is designed to run in docker environment. Follow the below instructions to regenerate the environment:
+# This mini-project is designed to run in docker environment.
+
+Follow the below instructions to regenerate the environment:
 
 Install docker in your machine.
 
